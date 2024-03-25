@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning copywriting and web design
 - 💞️ I’m looking to collaborate on web development
 - 📫 you can reach me by email malihua[at]gmx.at
-- 😄 Pronouns: ...
 - ⚡ Fun fact: former professional volleyball player, born in China, austrian citizenship, wife, living in Trento, Italy
 
 <!---
